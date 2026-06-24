@@ -4,10 +4,28 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<div data-importer="socials" align="center" style="gap: 10px; display: flex; justify-content: center; align-items: center;">
+  
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/ishan-kar-07-/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="display: block; border-radius: 4px;" />
+  </a>
+
+  <!-- Twitter / X Button -->
+  <a href="https://x.com/Ishan004z" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" style="display: block; border-radius: 4px;" />
+  </a>
+
+  <!-- Instagram Button -->
+  <a href="https://www.instagram.com/_ishan__07__/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" style="display: block; border-radius: 4px;" />
+  </a>
+
+  <!-- Email Button -->
+  <a href="mailto:iamishankar04@gmail.com" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" style="display: block; border-radius: 4px;" />
+  </a>
+
 </div>
 
 ###
