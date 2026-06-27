@@ -44,7 +44,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am Ishan Kar, a Software Engineer from West Bengal pursuing a B.Tech in Computer Science & Engineering. Focused on writing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; efficient code, structuring scalable layouts, and driving technical growth.<br><br>⚡ Actively practicing Data Structures and Algorithms (DSA) to build a strong foundation in core problem-solving logic.<br><br>⚡ Building clean, responsive, and interactive user interfaces using modern HTML and CSS.<br><br>⚡ Developing foundational skills in frontend layouts, styles, and web structure.<br><br>⚡ Preparing to transition into full-stack development technologies in the near future.</p>
+<p data-importer="text" align="left">🎓&nbsp;&nbsp;&nbsp;&nbsp;I am Ishan Kar, a Software Engineer from West Bengal pursuing a B.Tech in Computer Science & Engineering. Focused on writing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; efficient code, structuring scalable layouts, and driving technical growth.<br><br>⚡ Actively practicing Data Structures and Algorithms (DSA) to build a strong foundation in core problem-solving logic.<br><br>⚡ Building clean, responsive, and interactive user interfaces using modern HTML and CSS.<br><br>⚡ Developing foundational skills in frontend layouts, styles, and web structure.<br><br>⚡ Preparing to transition into full-stack development technologies in the near future.</p>
 
 ###
 
